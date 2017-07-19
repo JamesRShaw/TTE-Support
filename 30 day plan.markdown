@@ -7,7 +7,7 @@
 
 - Team introduction
 
-- Arrange 1-1’s
+- **Arrange weekly 1-1’s**
 
 	- High priority
 
@@ -23,7 +23,7 @@
 
 	- Partners
 
-- Identify leads
+- Identify team leads
 
 - Identify empaths
 
@@ -35,6 +35,8 @@
 
 	- In-office relaxation
 
+	- Time tracking
+
 - Team meetings
 
 	- Encourage participation
@@ -43,11 +45,11 @@
 
 - Peer Reviews
 
-- Arrange Quarterly/Annual Reviews
+- Quarterly/Annual Reviews
 
 	- Minimize “performance reviews” (should be continuous)
 
-	- Focus on mentoring, career-building, goal-setting
+	- Focus on mentoring, career-building, goal-setting - e.g. IDP
 
 - Personality profiles
 
@@ -91,7 +93,15 @@
 
 - Identify, publish Mission Statement
 
-- Publish internal weekly newsletter
+- Publish internal weekly newsletter for Engineers only?
+
+	- culture, fun facts
+
+	- Technical updates
+
+	- Mentoring
+
+	- Archive for new hires
 
 - Celebrate behavior
 
@@ -125,7 +135,7 @@
 
 	- Who takes part?
 
-	- Product owner?
+	- Product owners?
 
 - Weekly product demos
 
@@ -151,17 +161,19 @@
 
 - Planning sessions
 
+- Project Kickoffs
+
 - Estimation
 
 	- Historical data
 
 	- Accuracy
 
-	- Repeatability
+	- Standardization and Repeatability
 
 - Reporting
 
-	- Weekly status report
+	- **Weekly status report**
 
 	- Team utilization
 
@@ -177,11 +189,21 @@
 
 - Resource allocation and assignment
 
-- Billing and invoicing
+### Teams
 
-- Timesheets
+- Roadmap (features)
 
-- Profitabiity
+- Maintenance (support)
+
+- Opportunity (fast response)
+
+- Pro services
+
+	- Timesheets
+
+	- Profitabiity
+
+	- Billing and Invoicing
 
 ### Review commitments
 
@@ -237,7 +259,7 @@
 
 ### Review tools and processes
 
-- Branching
+- Branching Strategy, gitflow, rebasing
 
 - Pull requests
 
@@ -247,15 +269,17 @@
 
 - Technical debt
 
-- Build process
+- Build process & speed
 
-- Deployment process
+- Deployment process & speed
 
-- Dashboards
+- Dashboard to monitor production
 
 - Engineering metrics and reports
 
 - Definition of Done
+
+- Mocking
 
 - Communication tools
 
@@ -272,6 +296,20 @@
 	- From support
 
 - Infrastructure
+
+	- Dev
+
+	- Staging
+
+	- Production
+
+- Libraries
+
+- Coding standards, linting and enforcement
+
+- Mentoring
+
+- Smoke testing
 
 ### Education
 
@@ -293,6 +331,12 @@
 
 - Hackathons
 
+- Mentoring, e.g. “Office hours”
+
+- Skills spreadsheet
+
+- New dev checklist
+
 - Shared Library
 
 	- Books
@@ -305,7 +349,7 @@
 
 	- Podcasts
 
-### Review budget
+### Review budgets
 
 - Staffing
 
@@ -313,7 +357,9 @@
 
 - Software
 
-- Training
+- Education
+
+- Culture
 
 - Historical data
 
@@ -369,7 +415,7 @@
 
 ### Review existing staff
 
-- Salary
+- Salary & Hire date
 
 - Last raise
 
@@ -408,6 +454,8 @@
 	- Capped
 
 	- Gifting PTO
+
+	- Annual increase
 
 ## Cross team pollination
 
